@@ -25,18 +25,6 @@ This project follows the **Medallion Architecture** with **Bronze**, **Silver**,
 - **Data Modeling**: Creating fact and dimension tables optimized for analysis.
 - **Analytics & Reporting**: Generating SQL-based dashboards and reports for insights.
 
----
-
-## 🎯 Target Audience
-
-This project is ideal for:
-
-- SQL Developers  
-- Data Architects  
-- Data Engineers  
-- ETL Pipeline Developers  
-- Data Modelers  
-- Data Analysts
 
 ---
 
@@ -104,36 +92,6 @@ data-warehouse-project/
 ├── .gitignore                          # Git ignore rules
 └── requirements.txt                    # Tools and dependencies
 ```
-
----
-
-## ☕ Stay Connected
-
-Let's connect and grow together!  
-Follow and support my work across platforms:
-
-- **YouTube**  
-- **LinkedIn**  
-- **Website**  
-- **Newsletter**  
-- **PayPal (Support my work!)**
-
-Your **likes, shares, and comments** mean a lot and help grow the community! 🙏
-
----
-
-## 📚 Free Learning Resources
-
-| Project | Course | Materials | Repo/Public |
-|--------|--------|-----------|-------------|
-| ✅ SQL Full Course | [Link] | [Download] | [GitHub] |
-| ✅ Tableau Full Course | [Link] | [Download] | [Public] |
-| ✅ SQL Data Warehouse Project | [Link] | [Download] | [GitHub] |
-| ✅ SQL Exploratory Data Analysis Project | [Link] | [Download] | [GitHub] |
-| ✅ SQL Advanced Data Analysis Project | [Link] | [Download] | [GitHub] |
-| ✅ Tableau Sales Project | [Link] | [Download] | [Public] |
-| ✅ Tableau HR Project | [Link] | [Download] | [Public] |
-| ✅ ChatGPT Tutorial | [Link] | [Download] | — |
 
 ---
 
