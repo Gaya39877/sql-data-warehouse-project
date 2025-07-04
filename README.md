@@ -8,7 +8,7 @@ This project demonstrates a complete data warehousing and analytics solution—f
 
 ## 🏛️ High Level Data Architecture
 
-![Project Architecture](https://github.com/Gaya39877/sql-data-warehouse-project/blob/main/doc/High_level_Architecture.png?raw=true)
+![Project Architecture](https://github.com/Gaya39877/sql-data-warehouse-project/blob/main/doc/High_Level_Architecture.png)
 
 This project follows the **Medallion Architecture** with **Bronze**, **Silver**, and **Gold** layers:
 
